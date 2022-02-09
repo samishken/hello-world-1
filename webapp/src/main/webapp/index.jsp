@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Samboo Jamboo DevOps Learning</h1>
+    <h1>New user Register for Samboo LFC DevOps Learning</h1>
     <br>
     <p>Please fill in this form to create an account.</p>
     <hr>
