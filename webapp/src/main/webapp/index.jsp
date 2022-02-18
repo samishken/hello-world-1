@@ -8,6 +8,12 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+	
+    <label for="Gender"><b>Gender</b></label>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">male</label><br>
+    <input type="radio" id="femaile" name="gender" value="male">
+    <label for="female">Femaile</label><br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
